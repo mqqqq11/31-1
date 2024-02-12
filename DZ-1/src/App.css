@@ -1,0 +1,12 @@
+.main {
+    text-align: center;
+}
+.button {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.button button {
+    padding: 20px;
+}
